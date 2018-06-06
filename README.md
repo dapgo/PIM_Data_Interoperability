@@ -14,24 +14,29 @@ there are many risks for our information. And information and data his too impor
 6. Existance of non IT skilled users, probably they are not aware of these risks and will not decide a software thinking in interoperability
 
 
-1.#### Support/Covered software/ Data formats ####
+#### Support/Covered software/ Data formats ####
 1.1 Noteeverything (Memos/Notes) (Android-Commercial)
 1.2 Omni-notes (Memos/Notes,Checklist) (Android-Opensource/desktop multiplatform)
+1.3 DejaOffice (only Memos/Notes) (Android,iOS,..-Commercial)
 
 
-2.#### Developments/Solutions ####
+#### Developments/Solutions ####
 2.1 Scripts and queries to migrate information from Noteeverything to Omni-notes
 2.2 Documentation about tables, fields, relations,etc
+2.3 (PENDING TODO) Apps (android, pc) to automate the conversion from a format to another
 
 
-3. #### Planned to support ####
+#### Planned to support ####
 3.1 DejaOffice (Calendar,Tasks,Memos/Notes,Contacts) (Multiplatform(mobile)-Commercial)
     Database in SQlite
-3.2 Omni-notes (Memos/Notes) to DejaOffice (Memos/Notes)
+3.2 Tasks (Android-Opensource)
+    Data in JSON
+3.3 Simple Calendar (Android-Opensource)
+    Data in ???
     
     
 
-4. #### Donations #### 
+#### Donations #### 
 Not yet, it ois too early but i would like to set because I think it is a good way to receive feedback from users and motivate the developer
 
 
