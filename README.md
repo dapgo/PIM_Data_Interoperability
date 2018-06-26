@@ -21,23 +21,29 @@ there are many risks for our information. And information and data his too impor
 
 
 #### Developments/Solutions ####
-1. Scripts and queries to migrate information from Noteeverything to Omni-notes
-2. Documentation about tables, fields, relations,etc
-3. (PENDING TODO) Apps (android, pc) to automate the conversion from a format to another
+1. Based in SQL -Scripts and queries to migrate information from/to Noteeverything/Omni-notes/DejaMemos
+2. (in progress) Documentation about tables, fields, relations,etc
+3. (PENDING TODO) Script to extract Calendar events from SQLlite db to ICS format
+4. (PENDING TODO) Script to extract Tasks/Notes events from SQLlite db to JSON format
+5. (thinking about) Apps (android, pc) to automate the conversion from a format to another
 
 
-#### Planned to support ####
+#### Apps/data not fully supported or planned to support ####
 1. DejaOffice (Calendar,Tasks,Memos/Notes,Contacts) (Multiplatform(mobile)-Commercial)
-    Database in SQlite
+    Database in SQlite 
 2. Tasks (Android-Opensource)
     Data in JSON
 3. Simple Calendar (Android-Opensource)
-    Data in ???
+    internal Data (not accesible), Import/export ICS v2.0 
+
+(if you think other apps should be included in the list, raise an issue including reasons, and as much technical information as possible)
     
     
 
 #### Donations #### 
-Not yet, it ois too early but i would like to set because I think it is a good way to receive feedback from users and motivate the developer
+Will be accepted and specially if you request help with different apps data formats ;)
+
+However, at the moment a Donation account is not available, it is too early but i would like to set because I think it is a good way to receive feedback from users and motivate the developer
 
 
 
