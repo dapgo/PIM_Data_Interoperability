@@ -5,7 +5,7 @@ The aim of this project is to research, document and develop solutions against t
 there are many risks for our information. And information and data his too important to expose to loss.
 
 
-#### Potential risks and current scenario ####
+#### Reasons, potential risks and current scenario ####
 1. Lack of standards on file format (sqlite, json,....)
 2. Lack of standards on data estructure (different fields, type, tables)
 3. Lack of Import/export functions (many apps cannot even export to CSV)
@@ -15,26 +15,25 @@ there are many risks for our information. And information and data his too impor
 
 
 #### Support/Covered software/ Data formats ####
-1. Noteeverything (Memos/Notes) (Android-Commercial)
-2. Omni-notes (Memos/Notes,Checklist) (Android-Opensource/desktop multiplatform)
-3. DejaOffice (only Memos/Notes) (Android,iOS,..-Commercial)
+- [x] Noteeverything (Memos/Notes) (de.softxperience.android.noteeverything) (Android-Commercial)
+- [x] Omni-notes (Memos/Notes,Checklist) (it.feio.android.omninotes.foss) (Android-Opensource/desktop multiplatform)
+- [x] DejaOffice (only Memos/Notes) (com.companionlink.clusbsync) (Android,iOS,..-Commercial)
+- [x] Simple Calendar (Android-Opensource)(com.simplemobiletools.calendar) through import/export ICS v2.0
 
 
 #### Developments/Solutions ####
-1. Based in SQL -Scripts and queries to migrate information from/to Noteeverything/Omni-notes/DejaMemos
-2. (in progress) Documentation about tables, fields, relations,etc
-3. (PENDING TODO) Script to extract Calendar events from SQLlite db to ICS format
-4. (PENDING TODO) Script to extract Tasks/Notes events from SQLlite db to JSON format
-5. (thinking about) Apps (android, pc) to automate the conversion from a format to another
+- [x] Based in SQL -Scripts and queries to migrate information from/to Noteeverything/Omni-notes/DejaMemos
+- [-] (in progress) Contact developers and ask for standard format and interoperatibility features
+- [-] (in progress) Documentation about tables, fields, relations,etc
+- [ ] (PENDING TODO) Script to extract Calendar events from SQLlite db to ICS format
+- [ ] (PENDING TODO) Script to extract Tasks/Notes events from SQLlite db to JSON format
+- [ ] (thinking about) Apps (android, pc) to automate the conversion from a format to another
 
 
 #### Apps/data not fully supported or planned to support ####
-1. DejaOffice (Calendar,Tasks,Memos/Notes,Contacts) (Multiplatform(mobile)-Commercial)
-    Database in SQlite 
-2. Tasks (Android-Opensource)
+1. Tasks (Android-Opensource) (org.tasks)
     Data in JSON
-3. Simple Calendar (Android-Opensource)
-    internal Data (not accesible), Import/export ICS v2.0 
+
 
 (if you think other apps should be included in the list, raise an issue including reasons, and as much technical information as possible)
     
