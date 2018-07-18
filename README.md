@@ -1,13 +1,14 @@
- ![icon](resources/Interoperability_apps_diagram.png)
+ ![icon](resources/Interoperability_proj_logo.png)
 
 PIM Data Inter-Operability
 ==========
+Solutions to improve the Interoperability between data form different formats and PIM apps (personal information managers)
 
 ![SLicense](https://img.shields.io/badge/License-GPLv3-red.svg)
 
 # Introduction
 
-Code to create Interoperability between data in different formats from PIM (personal information managers)
+
 The aim of this project is to research, document and develop solutions against the loss of access to information due the fact that 
 there are many risks for our information. And information and data his too important to expose to loss.
 
@@ -20,6 +21,7 @@ there are many risks for our information. And information and data his too impor
 5. Change of Platform, software maybe is not available for our new platform (iOS, Android, Linux, Windows, MacOS, Blackberry, ....)
 6. Existance of non IT skilled users, probably they are not aware of these risks and will not decide a software thinking in interoperability
 
+ ![icon](resources/Interoperability_apps_diagram.png)
 
 # Support/Covered software/ Data formats
 - [x] Noteeverything (Memos/Notes) (de.softxperience.android.noteeverything) (Android-Commercial)
@@ -41,6 +43,8 @@ there are many risks for our information. And information and data his too impor
 1. Tasks (Android-Opensource) (org.tasks)
     Data in JSON
 2. etar (Android v5-Opensource)
+3. orgzly(Android-Opensource)
+4. your request???
 
 
 (if you think other apps should be included in the list, raise an issue including reasons, and as much technical information as possible)
