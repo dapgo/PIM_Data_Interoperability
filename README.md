@@ -52,9 +52,12 @@ there are many risks for our information. And information and data his too impor
     
 
 # Donations
-Will be accepted and specially if you request help with different apps data formats ;)
 
-However, at the moment a Donation account is not available, it is too early but i would like to set because I think it is a good way to receive feedback from users and motivate the developer
+paypal.me/dapgo
+
+Accepted and specially if you request help with different apps/data format ;)
+
+Furthermore, I think that a symbolic donation is a good way to receive feedback from users and motivate the developer
 
 
 
