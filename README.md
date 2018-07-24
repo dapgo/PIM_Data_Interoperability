@@ -53,7 +53,7 @@ there are many risks for our information. And information and data his too impor
 
 # Donations
 
-paypal.me/dapgo
+https://www.paypal.me/dapgo
 
 Accepted and specially if you request help with different apps/data format ;)
 
