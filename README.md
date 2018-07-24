@@ -31,20 +31,25 @@ there are many risks for our information. And information and data his too impor
 
 
 # Developments/Solutions
+See section in wiki
 - [x] Based in SQL -Scripts and queries to migrate information from/to Noteeverything/Omni-notes/DejaMemos
 - [ ] (in progress) Contact developers and ask for standard format and interoperatibility features
 - [ ] (in progress) Documentation about tables, fields, relations,etc
 - [ ] (PENDING TODO) Script to extract Calendar events from SQLlite db to ICS format
+- [ ] (PENDING TODO) Script to extract Task events from SQLlite db to ICS(TODO) format
 - [ ] (PENDING TODO) Script to extract Tasks/Notes events from SQLlite db to JSON format
+- [ ] (PENDING TODO) Script to extract Notes/Tasks from "Org mode" file format to ICS(TODO) or any JSON format
 - [ ] (thinking about) Apps (android, pc) to automate the conversion from a format to another
 
 
 # Apps/data not fully supported or planned to support
+See section in wiki
 1. Tasks (Android-Opensource) (org.tasks)
     Data in JSON
 2. etar (Android v5-Opensource)
 3. orgzly(Android-Opensource)
-4. your request???
+4. Notes for Firefox (Addon/Android-Opensource)
+5. your request???
 
 
 (if you think other apps should be included in the list, raise an issue including reasons, and as much technical information as possible)
