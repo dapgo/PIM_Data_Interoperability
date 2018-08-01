@@ -1,4 +1,4 @@
- ![icon](resources/Interoperability_proj_logo.png)
+ ![icon](../resources/Interoperability_proj_logo.png)
 
 PIM Data Inter-Operability
 ==========
@@ -12,6 +12,8 @@ Solutions to improve the Interoperability between data form different formats an
 The aim of this project is to research, document and develop solutions against the loss of access to information due the fact that 
 there are many risks for our information. Because data and personal information is too important to expose to loss.
 
+![More info in the wiki](https://github.com/dapgo/PIM_Data_Interoperability/wiki)
+
 
 # Reasons, potential risks and current scenario
 1. Lack of standards on file format (sqlite, json,....)
@@ -21,7 +23,7 @@ there are many risks for our information. Because data and personal information 
 5. Change of Platform, software maybe is not available for our new platform (iOS, Android, Linux, Windows, MacOS, Blackberry, ....)
 6. Existance of non IT skilled users, probably they are not aware of these risks and will not decide a software thinking in interoperability
 
- ![icon](resources/Interoperability_apps_diagram.png)
+ ![icon](../resources/Interoperability_apps_diagram.png)
 
 # Support/Covered software/ Data formats
 - [x] Noteeverything (Memos/Notes) (de.softxperience.android.noteeverything) (Android-Commercial)
