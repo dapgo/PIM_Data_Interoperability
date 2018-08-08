@@ -1,4 +1,4 @@
- ![icon](../resources/Interoperability_proj_logo.png)
+ ![icon](dapgo.github.io/PIM_Data_Interoperability/resources/Interoperability_proj_logo.png)
 
 PIM Data Inter-Operability
 ==========
@@ -23,7 +23,7 @@ there are many risks for our information. Because data and personal information 
 5. Change of Platform, software maybe is not available for our new platform (iOS, Android, Linux, Windows, MacOS, Blackberry, ....)
 6. Existance of non IT skilled users, probably they are not aware of these risks and will not decide a software thinking in interoperability
 
- ![icon](../resources/Interoperability_apps_diagram.png)
+ ![icon](dapgo.github.io/PIM_Data_Interoperability/resources/Interoperability_apps_diagram.png)
 
 # Support/Covered software/ Data formats
 - [x] Noteeverything (Memos/Notes) (de.softxperience.android.noteeverything) (Android-Commercial)
