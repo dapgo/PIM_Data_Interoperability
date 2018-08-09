@@ -33,6 +33,7 @@ there are many risks for our information. Because data and personal information 
 - [x] Simple Calendar (Android-Opensource)(com.simplemobiletools.calendar) through import/export ICS v2.0
 - [ ] Notes for Firefox (Android-Opensource)(org.mozilla.testpilot.notes) 
 
+![Apps data, functions, formats](docs/resources/table_apps_imp_exp_format.png)
 
 # Developments/Solutions
 See section in wiki
