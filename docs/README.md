@@ -37,15 +37,18 @@ there are many risks for our information. Because data and personal information 
 
 # Developments/Solutions
 See section in wiki
-- [x] Based in SQL -Scripts and queries to migrate information from/to Noteeverything/Omni-notes/DejaMemos
-- [ ] (in progress) Contact developers and ask for standard format and interoperatibility features
-- [ ] (in progress) Documentation about tables, fields, relations,etc
-- [ ] (PENDING TODO) Script to extract Calendar events from SQLlite db to ICS format
-- [ ] (PENDING TODO) Script to extract Task events from SQLlite db to ICS(TODO) format
-- [ ] (PENDING TODO) Script to extract Tasks/Notes events from SQLlite db to JSON format
-- [ ] (PENDING TODO) Script to extract Notes/Tasks from "Org mode" file format to ICS(TODO) or any JSON format
-- [ ] (thinking about) Apps (android, pc) to automate the conversion from a format to another
-
+- [x] Based in SQL -Scripts and queries to migrate Notes/memos from/to Noteeverything/Omni-notes/DejaMemos
+- [x] (in progress) Contact developers and ask for standard format and interoperatibility features
+- [x] (in progress) Documentation about tables, fields, relations,etc
+- [ ] (PENDING TODO) Script to extract Evernote xml format (.enex) to SQLlite db
+- [ ] (PENDING TODO) Script to extract Evernote xml format (.enex) to JSON format (Notes for FF)
+- [ ] (PENDING TODO) Script to extract "Notes for FireFox" notes from JSON to SQLlite db
+- [ ] (PENDING TODO) Script to extract DejaOffice notes from SQLlite db to JSON format (Notes for FF)
+- [ ] (PENDING TODO) Script to extract Omni-notes Notes from SQLlite db to JSON format (Notes for FF)
+- [ ] (PENDING TODO) Script to extract Notes/Tasks from "Org mode" file format to ICS(TODO) 
+- [ ] (PENDING TODO) Script to extract Notes/Tasks from "Org mode" file format to any JSON format
+- [ ] (thinking about) Apps (android) to automate the conversion from a format to another
+- [ ] (thinking about) Apps (pc, java cross-platform) to automate the conversion from a format to another
 
 # Apps/data not fully supported or planned to support
 See section in wiki
@@ -54,7 +57,8 @@ See section in wiki
 2. etar (Android v5-Opensource)
 3. orgzly(Android-Opensource)
 4. Notes for Firefox (Addon/Android-Opensource)
-5. your request???
+5. Evernote(Android-Commercial)
+6. your request here
 
 
 (if you think other apps should be included in the list, raise an issue including reasons, and as much technical information as possible)
