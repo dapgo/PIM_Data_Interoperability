@@ -2,12 +2,15 @@
 
 PIM Data Inter-Operability
 ==========
-Solutions to improve the Interoperability between data form different formats and PIM apps (personal information managers)
+Opensource solutions to make possible the Interoperability between different PIM apps (personal information managers) and specially the processes or scripts to convert the format of the data from a source app to a target app.
+
+Definition: interoperability is "The capability to communicate, execute programs, or transfer data among various functional units in a manner that requires the user to have little or no knowledge of the unique characteristics of those units"
+
+[definition at wikipedia](https://en.wikipedia.org/wiki/Interoperability#Software)
 
 ![SLicense](https://img.shields.io/badge/License-GPLv3-red.svg)
 
 # Introduction
-
 
 The aim of this project is to research, document and develop solutions against the loss of access to information due the fact that 
 there are many risks for our information. And information and data his too important to expose to loss.
@@ -24,4 +27,5 @@ there are many risks for our information. And information and data his too impor
  ![icon](docs/resources/Interoperability_apps_diagram.png)
  
  [More info at GitHub webpage:](https://dapgo.github.io/PIM_Data_Interoperability/)
+ 
  [More info at GitHub wiki:](https://github.com/dapgo/PIM_Data_Interoperability/wiki)
