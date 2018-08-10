@@ -18,11 +18,12 @@ there are many risks for our information. Because data and personal information 
 
 # Reasons, potential risks and current scenario
 1. Lack of standards on file format (sqlite, json,....)
-2. Lack of standards on data estructure (different fields, type, tables)
-3. Lack of Import/export functions (many apps cannot even export to CSV)
-4. Cycle life of Commercial apps/closed source (years after an app is abandoned, hardware can be incompatible with our old software)
-5. Change of Platform, software maybe is not available for our new platform (iOS, Android, Linux, Windows, MacOS, Blackberry, ....)
-6. Existance of non IT skilled users, probably they are not aware of these risks and will not decide a software thinking in interoperability
+2. Lack of standards on data estructure (different field names, type, tables)
+3. Lack of Import/export functions (many apps cannot even export to common format CSV, iCalendar,... )
+4. Life Cycle of software and specially on Commercial/closed source (abandoned apps will not be compatible with future hardware/operating systems)
+5. Hardware/OS platforms, software maybe is not available for others platform (iOS, Android, Linux, Windows, MacOS, Blackberry, ....)
+6. Exposure of non IT skilled users to problems, probably they are not aware of these previous facts and risks and they had not chosen a  software thinking in interoperability
+
 
  ![icon](https://dapgo.github.io/PIM_Data_Interoperability/resources/Interoperability_apps_diagram.png)
 
