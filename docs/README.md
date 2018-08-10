@@ -31,18 +31,21 @@ there are many risks for our information. Because data and personal information 
 - [x] Omni-notes (Memos/Notes,Checklist) (it.feio.android.omninotes.foss) (Android-Opensource/desktop multiplatform)
 - [x] DejaOffice (only Memos/Notes) (com.companionlink.clusbsync) (Android,iOS,..-Commercial)
 - [x] Simple Calendar (Android-Opensource)(com.simplemobiletools.calendar) through import/export ICS v2.0
+- [ ] Evernote (Android/desktop-Commercial)(com.evernote)
 - [ ] Notes for Firefox (Android-Opensource)(org.mozilla.testpilot.notes) 
+
 
 ![Apps data, functions, formats](https://dapgo.github.io/PIM_Data_Interoperability/resources/table_apps_imp_exp_format.png)
 
 # Developments/Solutions
-See section in wiki
-- [x] Based in SQL -Scripts and queries to migrate Notes/memos from/to Noteeverything/Omni-notes/DejaMemos
+[More info in the wiki](https://github.com/dapgo/PIM_Data_Interoperability/wiki)
+- [x] Based in SQL -Scripts and queries to migrate Notes/memos from Noteeverything to Omni-notes
+- [x] Based in SQL -Scripts and queries to migrate Notes/memos from Omni-notes to DejaOffice/DejaMemos
 - [x] (in progress) Contact developers and ask for standard format and interoperatibility features
 - [x] (in progress) Documentation about tables, fields, relations,etc
-- [ ] (PENDING TODO) Script to extract Evernote xml format (.enex) to SQLlite db
-- [ ] (PENDING TODO) Script to extract Evernote xml format (.enex) to JSON format (Notes for FF)
-- [ ] (PENDING TODO) Script to extract "Notes for FireFox" notes from JSON to SQLlite db
+- [ ] (PENDING TODO) Script to extract Evernote SQLite or xml (.enex) to SQLlite (Omni-notes)
+- [ ] (PENDING TODO) Script to extract Evernote SQLite or xml (.enex) to JSON format (Notes for FF)
+- [ ] (PENDING TODO) Script to extract "Notes for FireFox" notes from JSON to SQLlite (Omni-notes)
 - [ ] (PENDING TODO) Script to extract DejaOffice notes from SQLlite db to JSON format (Notes for FF)
 - [ ] (PENDING TODO) Script to extract Omni-notes Notes from SQLlite db to JSON format (Notes for FF)
 - [ ] (PENDING TODO) Script to extract Notes/Tasks from "Org mode" file format to ICS(TODO) 
@@ -57,8 +60,7 @@ See section in wiki
 2. etar (Android v5-Opensource)
 3. orgzly(Android-Opensource)
 4. Notes for Firefox (Addon/Android-Opensource)
-5. Evernote(Android-Commercial)
-6. your request here
+5. your request here
 
 
 (if you think other apps should be included in the list, raise an issue including reasons, and as much technical information as possible)
