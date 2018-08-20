@@ -28,7 +28,7 @@ there are many risks for our information. And information and data his too impor
  
  # Solutions , alternatives:
  
- Available SQL scripts at project github repository, folder /SQLite scripts/
+ Available SQL scripts at project github repository, [folder /SQLite scripts/](https://github.com/dapgo/PIM_Data_Interoperability/tree/master/SQLite%20scripts)
  
  [More information at GitHub webpage:](https://dapgo.github.io/PIM_Data_Interoperability/)
  
