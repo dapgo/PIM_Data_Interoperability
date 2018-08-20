@@ -13,8 +13,9 @@ Solutions to improve the Interoperability between data form different formats an
 The aim of this project is to research, document and develop solutions against the loss of access to information due the fact that 
 there are many risks for our information. Because data and personal information is too important to expose to loss.
 
-**[More info in the wiki](https://github.com/dapgo/PIM_Data_Interoperability/wiki)**
+**[More info in the WIKI](https://github.com/dapgo/PIM_Data_Interoperability/wiki)**
 
+**SQL scripts** at project github repository, [folder /SQLite scripts/](https://github.com/dapgo/PIM_Data_Interoperability/tree/master/SQLite%20scripts)
 
 # Reasons, potential risks and current scenario
 1. Lack of standards on file format (sqlite, json,....)
