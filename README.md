@@ -26,6 +26,10 @@ there are many risks for our information. And information and data his too impor
 
  ![icon](docs/resources/Interoperability_apps_diagram.png)
  
- [More info at GitHub webpage:](https://dapgo.github.io/PIM_Data_Interoperability/)
+ # Solutions , alternatives:
  
- [More info at GitHub wiki:](https://github.com/dapgo/PIM_Data_Interoperability/wiki)
+ Available SQL scripts at project github repository, folder /SQLite scripts/
+ 
+ [More information at GitHub webpage:](https://dapgo.github.io/PIM_Data_Interoperability/)
+ 
+ [More information at GitHub wiki:](https://github.com/dapgo/PIM_Data_Interoperability/wiki)
