@@ -2,7 +2,7 @@
 
 PIM Data Portability / Inter-Operability
 ==========
-Opensource solutions to make possible the Interoperability between different PIM apps (personal information managers) and specially the processes or scripts to convert the format of the data from a source app to a target app.
+Opensource solutions to make possible the Interoperability between different PIM apps (Personal Information Managers) and specially the processes or scripts to convert the format of the data from a source app to a target app.
 
 Definition: interoperability is "The capability to communicate, execute programs, or transfer data among various functional units in a manner that requires the user to have little or no knowledge of the unique characteristics of those units"
 
