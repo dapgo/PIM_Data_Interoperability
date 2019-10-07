@@ -1,6 +1,6 @@
  ![icon](docs/resources/Interoperability_proj_logo.png)
 
-PIM Data Inter-Operability
+PIM Data Portability / Inter-Operability
 ==========
 Opensource solutions to make possible the Interoperability between different PIM apps (personal information managers) and specially the processes or scripts to convert the format of the data from a source app to a target app.
 
